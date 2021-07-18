@@ -1,3 +1,4 @@
+string 부분 출력
 package jeongmin3;
 
 public class main {
