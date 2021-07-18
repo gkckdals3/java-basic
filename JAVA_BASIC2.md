@@ -1,3 +1,4 @@
+자료형 
 package jeongmin2;
 
 public class main {
